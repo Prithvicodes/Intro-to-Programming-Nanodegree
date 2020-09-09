@@ -1,0 +1,60 @@
+/* add your CSS here */
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px ;
+}
+
+div
+{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding:10 px;
+    list-style-type: none;
+    text-align: center;
+    border: 1px solid gray;
+    border-style: solid ;
+    border-color: gray;
+    border-width: 1px;
+    box-sizing: content-box;
+
+}
+
+
+p.first
+{
+    font-style: italic;
+}
+
+p.second
+{
+    font-style:none;
+}
+
+li{
+    list-style-type: none;
+    text-align: center;
+}
+
+li span
+{
+    font-weight:bold;
+}
+
+.box1{
+    border: 2px solid gray;
+    margin: 1em;
+    padding:0.5em;
+    width:500px;
+    height:550px;
+
+}
+.box2{
+    border: 2px solid gray;
+    margin: 1em;
+    padding:0.5em;
+    width:200px;
+    height:100px;
+    }
